@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
+[![Twitter: e_san_desuyo](https://img.shields.io/twitter/follow/e_san_desuyo?style=social)](https://twitter.com/e_san_desuyo)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=i-am-ethan&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-am-ethan&theme=vue)
