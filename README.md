@@ -5,9 +5,13 @@
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-am-ethan&theme=vue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-ethan&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src=https://github-readme-stats.vercel.app/api?username=i-am-ethan&count_private=true&show_icons=true&theme=nightowl />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=nightowl" />
+</a>
 
 
 <!--
