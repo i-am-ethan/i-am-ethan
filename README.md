@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React, TypeScript
+🌱 I’m currently learning React & TypeScript
 
 [![Twitter: e_san_desuyo](https://img.shields.io/twitter/follow/e_san_desuyo?style=social)](https://twitter.com/e_san_desuyo) 
  
