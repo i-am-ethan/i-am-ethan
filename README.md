@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋　I am Ethan
 
 🌱 I’m currently learning React and TypeScript
 
