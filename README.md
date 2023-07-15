@@ -1,6 +1,6 @@
 ### Hi there 👋　I am Ethan 🐕
 
-🌱 I’m currently learning React and TypeScript
+🌱 I’m currently learning Linux and AWS
 
 [![Twitter: e_san_desuyo](https://img.shields.io/twitter/follow/e_san_desuyo?style=social)](https://twitter.com/e_san_desuyo) 
  
