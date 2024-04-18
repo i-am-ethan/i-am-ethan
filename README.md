@@ -11,6 +11,30 @@
   </kbd>
 </p>
 
+
+<table>
+    <tr>
+        <td>example description</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>example description</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>example description</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>example description</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>example description</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="60vw" width="60vw" /></td>
+    </tr>
+</table>
+
 <!-- Outer collapsible -->  
 
 <details>
