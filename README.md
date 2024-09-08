@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center" title="...and I'm happy to see you here :)">👋 Hello! I'm Ethan🐕</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=radical&hide=typescript,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=radical&hide=typescript,css,python,Dockerfile,Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">🌱 I’m currently learning Linux and AWS</p>
 
