@@ -3,8 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=radical&hide=typescript,css,python,Dockerfile,Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">🌱 I’m currently learning Linux and AWS</p>
-
 <!-- Socials -->
 <p align="center">
    <kbd>
