@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center" title="...and I'm happy to see you here :)">👋 Hello! I'm Ethan🐕</h1>
 
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ethan)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ethan)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 <p align="center">🌱 I’m currently learning Linux and AWS</p>
 
