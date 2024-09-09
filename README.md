@@ -10,28 +10,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=radical&hide=typescript,css,python,Dockerfile,Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="display:inline-block; margin:10px;">
-        <p>example description</p>
-        <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="60vw" width="60vw" />
-    </div>
-    <div style="display:inline-block; margin:10px;">
-        <p>example description</p>
-        <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="60vw" width="60vw" />
-    </div>
-    <div style="display:inline-block; margin:10px;">
-        <p>example description</p>
-        <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="60vw" width="60vw" />
-    </div>
-    <div style="display:inline-block; margin:10px;">
-        <p>example description</p>
-        <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="60vw" width="60vw" />
-    </div>
-    <div style="display:inline-block; margin:10px;">
-        <p>example description</p>
-        <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="60vw" width="60vw" />
-    </div>
-</div>
+<table>
+  <tr>
+    <td><strong>Example description 1</strong></td>
+    <td><strong>Example description 2</strong></td>
+    <td><strong>Example description 3</strong></td>
+    <td><strong>Example description 4</strong></td>
+    <td><strong>Example description 5</strong></td>
+  </tr>
+  <tr>
+    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="60" width="60" /></td>
+    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="60" width="60" /></td>
+    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="60" width="60" /></td>
+    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="60" width="60" /></td>
+    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="60" width="60" /></td>
+  </tr>
+</table>
+
 
 
 
