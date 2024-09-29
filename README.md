@@ -20,9 +20,9 @@
   </tr>
   <tr>
     <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="60" width="60" /></td>
-    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="60" width="60" /></td>
+    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="60" width="80" /></td>
     <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="60" width="60" /></td>
     <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="60" width="60" /></td>
-    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="60" width="60" /></td>
+    <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="60" width="50" /></td>
   </tr>
 </table>
