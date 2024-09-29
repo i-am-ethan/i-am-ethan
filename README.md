@@ -12,11 +12,11 @@
 
 <table>
   <tr>
-    <td><strong>Example description 1</strong></td>
-    <td><strong>Example description 2</strong></td>
-    <td><strong>Example description 3</strong></td>
-    <td><strong>Example description 4</strong></td>
-    <td><strong>Example description 5</strong></td>
+    <td><strong>Clang</strong></td>
+    <td><strong>Lisp</strong></td>
+    <td><strong>Ruby</strong></td>
+    <td><strong>golang</strong></td>
+    <td><strong>...</strong></td>
   </tr>
   <tr>
     <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="60" width="60" /></td>
@@ -26,29 +26,3 @@
     <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="60" width="60" /></td>
   </tr>
 </table>
-
-
-
-
-<!-- Outer collapsible -->  
-
-<details>
-  <summary><b>↕️ Expand for more!</b></summary>
-  <br>
-
-  <!--   github stats  -->
-  <details>
-  <summary><b>Github stats</b></summary>
-  
-  <a href="https://twitter.com/e_san_desuyo">
-    <img align="left" src=https://github-readme-stats-sigma-five.vercel.app/api?username=i-am-ethan&count_private=true&show_icons=true&theme=nightowl />
-  </a>
-   
-  </details>
-
- 
-</details>
-
-</details>
- 
-
