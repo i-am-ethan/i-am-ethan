@@ -7,6 +7,11 @@
       <a href="https://github.com/i-am-ethan" title="GitHub - @i-am-ethan"><img src="https://img.shields.io/badge/-ethan's github-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   </kbd>
 </p>
+<p align="center">
+   <kbd>
+  <a href="https://www.izawa-ry.com/" title="My AI Blog">My AI Blog | Diaily</a>
+  </kbd>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=radical&hide=typescript,css,python,Dockerfile,Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
