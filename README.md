@@ -13,7 +13,7 @@
   </kbd>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=radical&hide=typescript,css,python,Dockerfile,Javascript,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ethan&layout=compact&theme=radical&hide=typescript,css,python,Dockerfile,Javascript,php,Java,Vue,Ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
   <tr>
